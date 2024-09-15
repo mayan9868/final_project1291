@@ -1,5 +1,5 @@
 # FinalProject1291
-Final Project - Brain Tumor Classification using a CNN & ViT
+Brain Tumor Classification using a ViT & CNN
 
 Files Containing Code:
  - FirstModel_FinalProject1291.ipynb
